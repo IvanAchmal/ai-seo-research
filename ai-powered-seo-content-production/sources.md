@@ -11,7 +11,7 @@ Date: 2026
 Nathan Gotch — Strategy-oriented SEO educator known for frameworks and skill prioritization, with a focus on future-ready AI SEO capabilities for 2026.
 
 ## Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
-Author: Matt Diggity
+Author: Matt Diggity  
 Link: https://www.youtube.com/@MattDiggity  
 Date: 2026  
 Matt Diggity — Data-driven SEO operator focused on practical growth experiments, authority building, and scalable organic traffic systems.
