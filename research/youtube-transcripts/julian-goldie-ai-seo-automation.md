@@ -1,4 +1,4 @@
-# Video: How to Rank #1 with Claude AI SEO!
+# How to Rank #1 with Claude AI SEO!
 Author: Julian Goldie
 Link: 
 Date: 
