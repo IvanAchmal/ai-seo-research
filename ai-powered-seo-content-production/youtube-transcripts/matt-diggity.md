@@ -1,5 +1,5 @@
 # Is Reddit REALLY The KEY to AI Search? Let’s Find Out… 
-Author: Matt Diggity
+Author: Matt Diggity  
 Link: https://youtu.be/f03ZfdtkMzk?si=Q69h5vjczSPQkRGb  
 Date: 2026 
 
