@@ -8,7 +8,7 @@ Julian Goldie — Practical, tactics-first SEO creator focused on ranking workfl
 Author: Nathan Gotch  
 Link: https://www.youtube.com/@nathangotch  
 Date: 2026  
-Nathan Gotch — Strategy-oriented SEO educator known for frameworks and skill prioritization, with a focus on future-ready AI SEO capabilities for 2026.
+Nathan Gotch — Strategy-oriented SEO educator known for frameworks and skill prioritization, with a focus on future-ready AI SEO capabilities.
 
 ## Is Reddit REALLY The KEY to AI Search? Let’s Find Out…
 Author: Matt Diggity  
