@@ -19,6 +19,6 @@ Matt Diggity — Data-driven SEO operator focused on practical growth experiment
 ## Programmatic SEO in 2026: How I built 13,000+ pages in 3 hours and grew SEO traffic +466% in 60 days
 Author: Jake Ward  
 Link: https://www.linkedin.com/in/jakezward/  
-Date: 2026
+Date: 2026  
 Jake Ward — A leading practitioner in Programmatic SEO (pSEO) and high-efficiency content scaling.
 
