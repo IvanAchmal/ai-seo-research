@@ -4,6 +4,9 @@ Link: https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pag
 Date: 2026
 
 ## Content
+
+<img width="1279" height="720" alt="Image" src="https://github.com/user-attachments/assets/102851d1-81fc-41b2-82a4-63bdb9782bad" />
+
 ### Opening results
 Jake shares a 60-day experiment where he launched 13,000+ programmatic pages and grew weekly organic clicks from 971 to 5,500 (+466%, or 5.7x), with roughly half the pages still not indexed.
 

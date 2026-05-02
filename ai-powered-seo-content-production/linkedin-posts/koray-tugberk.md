@@ -25,3 +25,12 @@ The planned Visual Semantics Course, will use this website also as one of the ex
 <img width="2048" height="881" alt="Image" src="https://github.com/user-attachments/assets/3a8517e8-c946-438e-a801-ad5f326f6018" />
 
 ## Key Takeaways
+- **Strategic Domain Expansion:** Extension domains are used to broaden the "Topical Map" of a core brand, allowing for more granular coverage of specific niche verticals.
+
+- **Topical Authority Transfer:** By using extension domains, an organization can "graft" the authority of their main entity onto new, specialized areas of the web.
+
+- **Semantic Domain Architecture:** This approach creates a "Semantic Moat" by dominating multiple search results across different domains that all point back to the same topical expertise.
+
+- **Ecosystem Building:** Rather than relying on a single site, the strategy focuses on building a web ecosystem where extension domains capture long-tail traffic and specific user intents.
+
+- **Risk Mitigation:** Operating through extension domains allows for experimentation in specific verticals without risking the primary domain's reputation or core rankings.
