@@ -3,7 +3,7 @@
 1. JULIAN GOLDIE
    Source: YouTube — "How to Rank #1 with Claude AI SEO"
    Category: AI Tools
-
+   
 Core thesis: Claude is a complete SEO orchestration system, not just a writing tool.
 
 Key insights:
