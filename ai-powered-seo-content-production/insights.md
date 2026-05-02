@@ -119,7 +119,7 @@ Key insights:
 
 - Ross Hudgens is writing "Generative Engine Optimization: The Definitive Guide to AI SEO," publishing with Wiley in Q4 2026.
 
-### **7. KORAY TUĞBERK GÜBÜR**  
+### [**7. KORAY TUĞBERK GÜBÜR** ](koray-tugberk.md) 
 Source: LinkedIn — "Extension Domains & Topical Authority"  
 Category: Tactics
 
