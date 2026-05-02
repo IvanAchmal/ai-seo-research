@@ -13,7 +13,7 @@ The collection intentionally spans three dimensions of the topic:
  
 ## **EXPERT-BY-EXPERT RATIONALE**
  
-- [**Julian Goldie**](ai-powered-seo-content-production\youtube-transcripts\julian-goldie.md)  
+- **Julian Goldie**  
   Why selected: A top practitioner known for actionable, results-driven SEO. His video directly addresses using Claude AI for ranking — perfectly on-topic for AI-powered SEO content production. He runs Goldie Agency, has ranked thousands of sites, and has taught over 50,000 students on Udemy.
  
 - **Matt Diggity**  

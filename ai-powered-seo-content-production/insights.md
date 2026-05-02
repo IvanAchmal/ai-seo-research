@@ -119,7 +119,7 @@ Key insights:
 
 - Ross Hudgens is writing "Generative Engine Optimization: The Definitive Guide to AI SEO," publishing with Wiley in Q4 2026.
 
-### [**7. KORAY TUĞBERK GÜBÜR** ](C:\Users\Ivan\GitHub_Repo\ai-seo-research\ai-powered-seo-content-production\linkedin-posts\koray-tugberk.md) 
+### **7. KORAY TUĞBERK GÜBÜR**
 Source: LinkedIn — "Extension Domains & Topical Authority"  
 Category: Tactics
 
@@ -138,3 +138,25 @@ Key insights:
 - Cost of Retrieval is an emerging SEO metric: the easier it is for search engines to retrieve and interpret your content, the higher its ranking value in AI-powered systems.
 
 - Internal links are not just navigation — they are the arteries of topical PageRank. Semantic content networks must be wired together deliberately, not arbitrarily.
+
+### **8. NEIL PATEL**  
+Source: YouTube — "Everything you know about Marketing is changing"  
+Category: Platform Shifts
+
+Core thesis: AI has decoupled traffic from revenue — visibility now happens before users visit your site, and marketers must adapt or fail.
+
+Key insights:
+
+- Zero-click searches and AI Overviews have created the "great decoupling": rankings and impressions can rise while clicks shrink. Measure brand mentions, citations, and branded demand — not sessions.
+
+- AI should speed up execution, not replace strategy. Use AI to draft and repurpose content, but rely on human perspective and editing to determine what actually performs.
+
+- Publishing less but better is the new standard. Average brand post frequency has dropped to 9.5 per day, while engagement rose 20% year-over-year. One thoughtful piece outperforms 100 AI-generated surface-level articles.
+
+- Social platforms — TikTok, YouTube, Instagram — now function as search engines. Content must be discoverable across all of them, structured for AI interpretation on each platform.
+
+- AI platforms mimic human psychological authority bias. Brands recognized on trusted sources (like a doctor's coat study analogy) are more likely to be recommended by AI — off-site credibility is now a direct ranking factor.
+
+- Blogs are not dead. Data shows blog content dominates AI citations and drives higher revenue than social formats, despite lower raw traffic volumes — the traffic that arrives is highly qualified.
+
+### **
