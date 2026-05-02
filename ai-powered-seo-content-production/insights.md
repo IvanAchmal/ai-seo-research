@@ -39,3 +39,24 @@ Key insights:
 - Don't build your entire strategy on Reddit alone. The cycle always repeats: platform ranks well, SEOs flood it, quality drops, platform moves on. Own your domain first and use Reddit as a credibility layer.
 
 - AI models have been shown to prefer information that is already ranking well on Google. Effort cut from traditional SEO can harm AI visibility too.
+
+### **3. NATHAN GOTCH**  
+Source: YouTube — "6 AI SEO Skills That Will Matter Most in 2026"  
+Category: Tactics
+
+Core thesis: Six skills now separate AI SEO winners from losers, and none of them are traditional keyword tactics.
+
+Key insights:
+
+- Track AI brand mentions across ChatGPT, Google, and Perplexity using commercial prompts and tools like Rankability AI, AI SEO Tracker, and Promptwatch AI. You cannot improve what you do not measure.
+ 
+- Stop posting AI-generated "slop." Use knowledge bases and source retrieval methods to produce content that AI models actually cite — quality and specificity, not volume.
+ 
+- Brand mentions on trusted third-party sites now matter more than many traditional backlinks. Even no-follow mentions and plain text citations on authoritative sources increase AI recommendation likelihood.
+ 
+- AI coding tools are a massive SEO leverage point: a single person can now rebuild site architecture, fix technical SEO issues, and launch new tools in minutes — moving faster than any large agency.
+ 
+- The old game of keywords and rankings is dead. The new game is Search Everywhere Optimization — being found across Google, ChatGPT, Perplexity, YouTube, and wherever your customers actually search.
+ 
+- By 2026, the gap between those who embrace AI and those who do not will be enormous. Stop thinking about how Google sees your site and start thinking about how AI models perceive your entire brand.
+
