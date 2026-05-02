@@ -22,3 +22,9 @@ Link: https://www.linkedin.com/in/jakezward/
 Date: 2026  
 Jake Ward — A leading practitioner in Programmatic SEO (pSEO) and high-efficiency content scaling.
 
+## How to build an AI SEO strategy that outlasts tactics
+Author: Kevin Indig  
+Link: https://www.linkedin.com/in/kevinindig/  
+Date: 2026  
+Kevin Indig — The author of the Growth Memo, a publication focused on SEO strategy and AI implementation.
+

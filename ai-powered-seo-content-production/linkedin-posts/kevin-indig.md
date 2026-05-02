@@ -1,6 +1,6 @@
 # Programmatic SEO in 2026: How I built 13,000+ pages in 3 hours and grew SEO traffic +466% in 60 days
 Author: Kevin Indig 
-Link: https://www.linkedin.com/posts/kevinindig_ai-seo-is-a-change-management-problem-activity-7452688741871271936-z2az?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2lckBNtOakOfsUq81Z4907N-p0JILaYA 
+Link: https://www.linkedin.com/posts/kevinindig_ai-seo-is-a-change-management-problem-activity-7452688741871271936-z2az?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2lckBNtOakOfsUq81Z4907N-p0JILaYA  
 Date: 2026
 
 ## Content  
