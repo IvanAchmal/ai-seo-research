@@ -159,4 +159,23 @@ Key insights:
 
 - Blogs are not dead. Data shows blog content dominates AI citations and drives higher revenue than social formats, despite lower raw traffic volumes — the traffic that arrives is highly qualified.
 
-### **
+### **9. ROSS SIMMONDS**  
+Source: LinkedIn — "Google just shipped Preferred Sources globally"  
+Category: Platform Shifts
+
+Core thesis: Google's Preferred Sources is now a global trust-based ranking layer — SEO must overlap with brand building and audience loyalty.
+
+Key insights:
+
+- Google's Preferred Sources rolled out globally across all languages on April 30, 2026. Users can select which publishers appear more often in Top Stories, and Google uses that signal alongside other ranking factors.
+
+- Readers are twice as likely to click through to a site they have marked as a Preferred Source. Audience loyalty now directly amplifies CTR and organic visibility in a measurable way.
+
+- Over 200,000 unique sites have already been selected — niche publishers and vertical experts still have significant room to win if they publish original, useful content consistently.
+
+- SEO now overlaps with newsletters, PR, founder branding, and community management. Organic visibility is no longer just about ranking for a query — it is about being remembered, chosen, and returned to.
+
+- Distribute content across Reddit, LinkedIn, Quora, and Medium. These are the channels LLMs most frequently cite as trusted sources, making them critical for both AI visibility and Preferred Source audience growth.
+
+- The old playbook of publishing generic content at scale gets weaker as users gain more control over source preference. Winners are brands that build memory, authority, and repeat demand.
+
