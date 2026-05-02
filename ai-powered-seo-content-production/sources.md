@@ -34,7 +34,7 @@ Link: https://www.linkedin.com/in/rosshudgens/
 Date: 2026
 Ross Hudgens - Founder of Siege Media. Teaches how to use AI for the "skeleton" of content while ensuring the "meat" contains proprietary data and expert insights that AI cannot replicate.
 
-# The Power of Extension Domains: Scaling Topical Authority Beyond a Single Site
+## The Power of Extension Domains: Scaling Topical Authority Beyond a Single Site
 Author: Koray Tuğberk GÜBÜR  
 Link: https://www.linkedin.com/in/koray-tugberk-gubur/  
 Date: 2026
