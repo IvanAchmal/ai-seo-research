@@ -46,9 +46,9 @@ Date: 2026
 
 **Caleb Ulku**: Yeah, this is the move, right? Everyone starts to panic, but the ones who know the fundamentals end up winning. And local SEO fundamentals haven't changed and they won't change with agentic search, as far as we know in the next year or so. So align your entity, own your GBPs, match your services, earn your reviews, the interface will change, but the game won't. That's what Pichai is saying happened to Google. They started building AI data centers in 2016 before they'd even invented the Transformer technology. Yet, in 2025 people were saying that they're behind the curve.  
 So overall here, we have three takeaways.  
-**Number one,** search doesn't die. Search becomes an agent manager, which means structured business, organized information for local businesses matters more in the future, not less. So if you're not optimizing your GBP and aligning your website to your GBP, you're going to be invisible to both humans and search agents.  
-**Number two,** plan for 12 months, not for five years. The curve is too steep, change is happening too fast. Execute on what works now and stay close to the changes.  
-**Number three,** the agencies and businesses that win from here on are the ones who stop treating this as a zero-sum game. More queries, more intent, more opportunity. Play offense.  
+- **Number one,** search doesn't die. Search becomes an agent manager, which means structured business, organized information for local businesses matters more in the future, not less. So if you're not optimizing your GBP and aligning your website to your GBP, you're going to be invisible to both humans and search agents.  
+- **Number two,** plan for 12 months, not for five years. The curve is too steep, change is happening too fast. Execute on what works now and stay close to the changes.  
+- **Number three,** the agencies and businesses that win from here on are the ones who stop treating this as a zero-sum game. More queries, more intent, more opportunity. Play offense.  
 Google had their best quarter ever last quarter. More searches than they've ever had before. In the era of ChatGPT, months after people said that Google was going to die, they had their best quarter ever. I've been teaching this framework for years and nothing Pichai said today changes anything. If anything, it doubles down. I'll see you in the next one.
 
 ## Key Takeaways
