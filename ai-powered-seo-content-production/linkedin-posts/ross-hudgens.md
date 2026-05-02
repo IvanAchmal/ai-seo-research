@@ -1,6 +1,6 @@
 # The Category Leader's Trap: Why Dominance Can Sometimes Hold You Back
-Author: Ross Hudgens
-Link:   https://www.linkedin.com/posts/rosshudgens_being-a-category-leader-can-sometimes-negatively-activity-7455605665018040320-L3vK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2lckBNtOakOfsUq81Z4907N-p0JILaYA
+Author: Ross Hudgens  
+Link: https://www.linkedin.com/posts/rosshudgens_being-a-category-leader-can-sometimes-negatively-activity-7455605665018040320-L3vK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2lckBNtOakOfsUq81Z4907N-p0JILaYA  
 Date: 2026
 
 ## Content
@@ -27,3 +27,14 @@ The action for brands? Self-awareness of this dynamic. How are active affiliates
 If the impact is outsized, you may want to consider shifting your affiliate program standards, even selectively, to adjust sentiment in your favor. 
 
 Otherwise you may be at risk of finding yourself at the whim of an excessively clickable thumbnail at some point in the near future.
+
+## Key Takeaways
+**- The "Defensive" Disadvantage:** Category leaders often find themselves in a defensive position, where maintaining the status quo prevents them from taking the aggressive risks needed to adapt to new search environments.
+
+**- Brand Weight vs. Innovation:** Large, established brands may suffer from "brand baggage," where existing processes and legacy content make it difficult to pivot as quickly as smaller, more nimble competitors.
+
+**- Algorithmic Bias Toward Freshness:** Search algorithms can sometimes favor newer, "disruptive" content over long-standing category leaders, meaning past dominance does not guarantee future visibility.
+
+**- The Content Decay Trap:** Leaders often sit on vast amounts of older content that requires significant resources to update, which can negatively impact overall site authority if left unmanaged.
+
+**- Necessity of a "Challenger" Mindset:** To stay ahead, market leaders must intentionally adopt a "challenger" mentality, proactively disrupting their own successful strategies before a competitor does it for them.
