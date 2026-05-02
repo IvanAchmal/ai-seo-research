@@ -99,4 +99,23 @@ Key insights:
 
 - Strategy must be adaptable. Define, test, learn, refine quarterly — AI algorithm behavior evolves constantly and plans that cannot pivot will break the first time a platform changes.
 
-###
+### **6. ROSS HUDGENS**  
+Source: LinkedIn — "The Category Leader's Trap"  
+Category: Strategy
+
+Core thesis: Dominant market position can actually hurt you in the AI SEO era because broad coverage makes brand identity incoherent to AI.
+
+Key insights:
+
+- Category leaders often have the most generic, wide-ranging content. AI models struggle to form a consistent narrative about brands that try to cover everything — specificity and consistency win citations.
+
+- If your brand is mentioned inconsistently across third-party sources, LLMs cannot reach consensus about what you actually stand for or which queries you should be recommended for.
+
+- High-fidelity content is now the baseline for standing out. AI instantly generates the boilerplate that used to rank. What remains competitive is bespoke content with custom visuals, interactive tools, and genuine subject-matter expertise.
+
+- GEO (Generative Engine Optimization) is fundamentally a reputation problem. You cannot bulldoze your way into AI recommendations for a topic your brand lacks recognized authority in — unlike old SEO where volume and links could override brand relevance.
+
+- Brand authority and homepage visits are rising due to LLMs directing users toward recognized names. This validates brand-first content investment as the highest-leverage SEO play in 2026.
+
+- Ross Hudgens is writing "Generative Engine Optimization: The Definitive Guide to AI SEO," publishing with Wiley in Q4 2026.
+
