@@ -119,3 +119,22 @@ Key insights:
 
 - Ross Hudgens is writing "Generative Engine Optimization: The Definitive Guide to AI SEO," publishing with Wiley in Q4 2026.
 
+### **7. KORAY TUĞBERK GÜBÜR**  
+Source: LinkedIn — "Extension Domains & Topical Authority"  
+Category: Tactics
+
+Core thesis: Topical authority must be scaled beyond a single domain using extension domains — and document layout now affects AI ranking.
+
+Key insights:
+
+- Topical Authority = Topical Coverage + Historical Data. A site must comprehensively cover all sub-topics within a space, with a track record of doing so, to be treated as a genuine authority by search engines and AI models.
+
+- Extension domains allow a brand to expand its topical graph into adjacent subject areas without diluting the primary domain's core semantic focus — enabling scaled authority without cannibalizing the main site.
+
+- Document layout directly impacts how content is vectorized by AI transformers. Before chunking, transformers divide content into structured blocks. Visual design, element order, and pixel-level layout affect how AI processes and ranks your content — not just text alone.
+
+- Homepage authority, semantic precision, and brand architecture work together to unlock deeper crawl depth, trust signals, and long-term ranking strength across the entire site.
+
+- Cost of Retrieval is an emerging SEO metric: the easier it is for search engines to retrieve and interpret your content, the higher its ranking value in AI-powered systems.
+
+- Internal links are not just navigation — they are the arteries of topical PageRank. Semantic content networks must be wired together deliberately, not arbitrarily.
