@@ -60,3 +60,21 @@ Key insights:
  
 - By 2026, the gap between those who embrace AI and those who do not will be enormous. Stop thinking about how Google sees your site and start thinking about how AI models perceive your entire brand.
 
+### **4. JAKE WARD**  
+Source: LinkedIn — "Programmatic SEO in 2026"  
+Category: Scale & Production
+
+Core thesis: 13,000+ pages in 3 hours and +466% traffic in 60 days is achievable — but only with strict JSON schemas, not freeform AI writing.
+
+Key insights:
+- Never ask AI to write freeform content at scale. Always ask it to fill a strict JSON schema. Freeform output is inconsistent: one page may have 8 checklist items, the next may have 40. Schemas enforce identical structure with different substance across every page.
+ 
+- The real scale comes from rich niche taxonomy. The system was built with structured context for 309 different niches — each including audience profiles, pain points, and strategies. This context injection is what turns pages from generic filler into genuinely useful content.
+ 
+- Separate generation, structure, and presentation into three distinct layers and never mix them. AI generates the data, the front end (components) handles the presentation. When these layers are mixed, quality collapses at scale.
+ 
+- Roll out pages progressively in batches, monitor Google Search Console for indexing rates and impressions, and scale only after confirming the early batch is working. Never launch everything at once.
+ 
+- Tool pages outperform pure content pages in engagement. Real working tools keep users on-site, generate higher conversion intent, and represent a different part of the funnel than informational content.
+ 
+- The system grew from 971 clicks per week before launch to 5,500 clicks per week in just 60 days — proof that structure plus niche context is the formula, not volume alone.
