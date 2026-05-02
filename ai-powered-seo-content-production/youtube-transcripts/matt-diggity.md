@@ -21,7 +21,7 @@ A brand new account with a polished bio, a bunch of links, and a “hello fellow
 Every subreddit has its own culture. What gets praised in one gets you banned in another. Your onboarding process should be: Join the subreddit, read the rules, watch what gets upvoted, notice what gets removed, and learn how people talk. Or speed it up with AI: drop the subreddit URL into ChatGPT or Claude and ask it to summarize the rules, tone, and what posts get upvoted.
 
 ### **Step 3: Pick the right subreddits, not just the biggest.**  
-In huge subreddits, posts move fast, moderators are stricter, and your comment gets buried. Use a two-tier approach. 
+In huge subreddits, posts move fast, moderators are stricter, and your comment gets buried. Use a two-tier approach.  
 Tier 1: Smaller niche communities to build karma and recognition.  
 Tier 2: Bigger subreddits once your account has history.  
 How to find them:  

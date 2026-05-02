@@ -3,7 +3,7 @@ Author: Jake Ward
 Link: https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pages-3-hours-jake-ward-pcjke/?trackingId=teVfPhtwQ9qUDX0tMXlA6g%3D%3D  
 Date: 2026
 
-## Transcript
+## Content
 ### Opening results
 Jake shares a 60-day experiment where he launched 13,000+ programmatic pages and grew weekly organic clicks from 971 to 5,500 (+466%, or 5.7x), with roughly half the pages still not indexed.
 
