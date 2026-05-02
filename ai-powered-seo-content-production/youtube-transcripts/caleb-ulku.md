@@ -53,3 +53,8 @@ So overall here, we have three takeaways.
 Google had their best quarter ever last quarter. More searches than they've ever had before. In the era of ChatGPT, months after people said that Google was going to die, they had their best quarter ever. I've been teaching this framework for years and nothing Pichai said today changes anything. If anything, it doubles down. I'll see you in the next one.
 
 ## Key Takeaways
+- Search as an Agent Manager: Search is evolving from providing a list of links into a system that manages AI agents to complete tasks for the user.
+- Structured Data is Vital: Clean and structured data in Google Business Profiles is essential because AI agents require machine-readable information to make decisions.
+- One-Year Planning Cycles: The rapid pace of AI advancement means businesses should focus on a 12-month strategy rather than long-term five-year plans.
+- An Expansionary Market: AI is not a zero-sum game but an expansionary moment that will lead to more queries, more intent, and more opportunities for businesses.
+- Fundamentals Remain the Same: Despite changes in the interface, the core local SEO fundamentals like entity alignment and review management still drive success.
