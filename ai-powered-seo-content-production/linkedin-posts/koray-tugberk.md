@@ -22,6 +22,6 @@ In my Vilnius lecture last month, I shared the names and details of both domains
 
 The planned Visual Semantics Course, will use this website also as one of the examples.
 
-https://media.licdn.com/dms/image/v2/D5622AQFSWJi7ymntwA/feedshare-image-high-res/B56Z28ddPhKIAU-/0/1776983332355?e=1779321600&v=beta&t=-mMQtA8wXraksNY60MZmp75x5yYscrlHWIhdRWX1PVs
+<img width="2048" height="881" alt="Image" src="https://github.com/user-attachments/assets/3a8517e8-c946-438e-a801-ad5f326f6018" />
 
 ## Key Takeaways
