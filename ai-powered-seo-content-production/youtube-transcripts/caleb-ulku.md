@@ -48,7 +48,8 @@ Date: 2026
 So overall here, we have three takeaways.  
 - **Number one,** search doesn't die. Search becomes an agent manager, which means structured business, organized information for local businesses matters more in the future, not less. So if you're not optimizing your GBP and aligning your website to your GBP, you're going to be invisible to both humans and search agents.  
 - **Number two,** plan for 12 months, not for five years. The curve is too steep, change is happening too fast. Execute on what works now and stay close to the changes.  
-- **Number three,** the agencies and businesses that win from here on are the ones who stop treating this as a zero-sum game. More queries, more intent, more opportunity. Play offense.  
+- **Number three,** the agencies and businesses that win from here on are the ones who stop treating this as a zero-sum game. More queries, more intent, more opportunity. Play offense.
+
 Google had their best quarter ever last quarter. More searches than they've ever had before. In the era of ChatGPT, months after people said that Google was going to die, they had their best quarter ever. I've been teaching this framework for years and nothing Pichai said today changes anything. If anything, it doubles down. I'll see you in the next one.
 
 ## Key Takeaways
