@@ -1,6 +1,6 @@
 # FULL INSIGHTS — ALL 10 EXPERTS
 
-1. JULIAN GOLDIE
+**1. JULIAN GOLDIE**  
 Source: YouTube — "How to Rank #1 with Claude AI SEO"  
 Category: AI Tools
 
