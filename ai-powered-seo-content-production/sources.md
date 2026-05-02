@@ -52,4 +52,8 @@ Link: https://www.linkedin.com/in/rosssimmonds/
 Date: 2026
 Ross Simmonds - Founder of Foundation Marketing and Distribution.ai, is a B2B marketing strategist who champions the philosophy of "Create once. Distribute forever.".
 
-#
+## Google's CEO Just Broke SEO
+Author: Caleb Ulku  
+Link: https://www.youtube.com/@calebulku  
+Date: 2026
+Caleb Ulku - Founder of Ulku Logistics and Specialist in Technical SEO Automation, recognized for his "Developer-First" approach to SEO, often sharing Python-based scripts and automation frameworks that use LLMs to perform complex technical tasks.
