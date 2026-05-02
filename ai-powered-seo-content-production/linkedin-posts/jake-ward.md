@@ -96,7 +96,7 @@ He highlights five changes/principles:
 - Use native JSON output
 - Invest in frontend utility and UX
 
-Closing thesis: AI content should be built inside structured systems, not written as unconstrained freeform output.
+AI content should be built inside structured systems, not written as unconstrained freeform output.
 
 ## Key Takeaways
 - Programmatic SEO can scale safely when generation is schema-driven and validated, not freeform and template-spun.
@@ -107,4 +107,3 @@ Closing thesis: AI content should be built inside structured systems, not writte
 - Concurrency and structured outputs make large-scale generation feasible; indexing, not generation, often becomes the bottleneck.
 - Quality control should be user-value based: pages should remain useful even without SEO traffic.
 - The durable advantage is a compounding system: generation -> measurement -> taxonomy refinement -> better next batch.
-
