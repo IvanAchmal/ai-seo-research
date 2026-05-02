@@ -33,17 +33,17 @@ To move from a "Channel Expert" to a "Change Agent," the memo suggests several s
 - Manage executive expectations regarding potential traffic loss or slower growth compared to previous years.  
 
 ## Key Takeaways
-**1. Change Management is the Primary Success Driver**  
+**- Change Management is the Primary Success Driver**  
 The technical aspects of AI only account for about 10% of implementation hurdles, whereas 70% of the challenges are related to people and organizational processes. Success depends more on how a team adapts than on the tools themselves.  
 
-**2. The "8x Multiplier" Effect**  
+**- The "8x Multiplier" Effect**  
 Data from the Prosci Benchmarking Study shows that teams with "Excellent" change management are nearly 8x more likely to achieve their project goals (an 82% success rate) compared to those with "Poor" practices, who only see a 10% success rate.  
 
-**3. Avoid "Panic-Testing" and Silos**  
+**- Avoid "Panic-Testing" and Silos**  
 A major symptom of failure is "turf fragmentation," where different teams run isolated experiments without a unified strategy. Jumping straight into tactics like prompt optimization or citation acquisition without executive alignment often leads to mismatched expectations and missed goals.  
 
-**4. Executive Sponsorship is Critical**  
+**- Executive Sponsorship is Critical**  
 Securing an executive sponsor is the single most impactful factor for a successful AI transformation. Without a clear mandate from leadership that defines who owns AI SEO and what the new KPIs are, programs are likely to stall.  
 
-**5. Shift from Channel Expert to Change Agent**  
+**- Shift from Channel Expert to Change Agent**  
 To succeed in the current search landscape, SEO leaders must transition from being tactical experts to "change agents". This involves managing executive expectations regarding potential traffic shifts and educating the broader team on how AI decides what to cite before overhauling workflows.
