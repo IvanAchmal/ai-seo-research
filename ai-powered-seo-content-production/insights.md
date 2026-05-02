@@ -179,3 +179,22 @@ Key insights:
 
 - The old playbook of publishing generic content at scale gets weaker as users gain more control over source preference. Winners are brands that build memory, authority, and repeat demand.
 
+### **10. CALEB ULKU**  
+Source: YouTube — "Google's CEO Just Broke SEO"  
+Category: Tactics
+
+Core thesis: Google's leadership signals a fundamental, irreversible shift away from traditional ranking mechanics — and AI tools have removed every barrier to competing.
+
+Key insights:
+
+- Google's CEO statements confirm AI-first search is the official direction for the platform. SEO strategies built on keyword manipulation and technical tricks are being systematically dismantled at the product level.
+
+- AI coding tools have eliminated technical SEO barriers for individuals. Anyone who can direct AI to write code can now rebuild site architecture, fix crawl issues, and launch new tools at agency speed — without a development team.
+
+- Content structured for AI citation outperforms traditionally structured long-form in AI search. Direct Q&A format, short paragraphs, clear subheadings, and concrete facts are what AI models quote and recommend.
+
+- Blogs are not dead — data confirms blog content dominates AI citations and drives higher revenue than social media formats, despite lower raw traffic. The intent of blog visitors is significantly higher.
+
+- Local SEO remains stable and high-value. AI has not disrupted local intent-based search as severely as informational or commercial queries — making it a reliable channel for businesses serving geographic markets.
+
+- The clearest path forward is combining AI tools for execution speed with fundamental SEO principles for authority building. Shortcuts without foundations still fail.
