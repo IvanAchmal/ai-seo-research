@@ -31,29 +31,29 @@ Kevin Indig — The author of the Growth Memo, a publication focused on SEO stra
 ## The Category Leader's Trap: Why Dominance Can Sometimes Hold You Back
 Author: Ross Hudgens  
 Link: https://www.linkedin.com/in/rosshudgens/  
-Date: 2026
+Date: 2026  
 Ross Hudgens - Founder of Siege Media. Teaches how to use AI for the "skeleton" of content while ensuring the "meat" contains proprietary data and expert insights that AI cannot replicate.
 
 ## The Power of Extension Domains: Scaling Topical Authority Beyond a Single Site
 Author: Koray Tuğberk GÜBÜR  
 Link: https://www.linkedin.com/in/koray-tugberk-gubur/  
-Date: 2026
+Date: 2026  
 Koray Tuğberk GÜBÜR - Founder of Holistic SEO & Digital and Author of the Topical Authority Framework, the industry leader in Semantic SEO and Topical Authority.
 
 ## Everything you know about Marketing is changing (2026)  
 Author: Neil Patel  
 Link: https://www.youtube.com/@neilpatel  
-Date: 2026 
+Date: 2026  
 Neil Patel - Co-founder of NP Digital and Ubersuggest, specializing in making complex SEO strategies accessible to the mainstream business audience.
 
 ## Google just shipped Preferred Sources globally.
 Author: Ross Simmonds  
 Link: https://www.linkedin.com/in/rosssimmonds/  
-Date: 2026
+Date: 2026  
 Ross Simmonds - Founder of Foundation Marketing and Distribution.ai, is a B2B marketing strategist who champions the philosophy of "Create once. Distribute forever.".
 
 ## Google's CEO Just Broke SEO
 Author: Caleb Ulku  
 Link: https://www.youtube.com/@calebulku  
-Date: 2026
+Date: 2026  
 Caleb Ulku - Founder of Ulku Logistics and Specialist in Technical SEO Automation, recognized for his "Developer-First" approach to SEO, often sharing Python-based scripts and automation frameworks that use LLMs to perform complex technical tasks.
