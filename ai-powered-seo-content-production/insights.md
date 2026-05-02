@@ -1,6 +1,6 @@
 # FULL INSIGHTS — ALL 10 EXPERTS
 
-**1. JULIAN GOLDIE**  
+### **1. JULIAN GOLDIE**  
 Source: YouTube — "How to Rank #1 with Claude AI SEO"  
 Category: AI Tools
 
@@ -20,8 +20,7 @@ Key insights:
 
 - Winners in 2026 are those who automate intelligently using systems, not guesses. Claude replaces confusion with clarity and luck with predictable growth.
 
-
-**2. MATT DIGGITY**  
+### **2. MATT DIGGITY**  
 Source: YouTube — "Is Reddit REALLY The KEY to AI Search?"  
 Category: Platform Shifts
 
