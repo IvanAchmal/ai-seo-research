@@ -49,15 +49,15 @@ Core thesis: Six skills now separate AI SEO winners from losers, and none of the
 Key insights:
 
 - Track AI brand mentions across ChatGPT, Google, and Perplexity using commercial prompts and tools like Rankability AI, AI SEO Tracker, and Promptwatch AI. You cannot improve what you do not measure.
- 
+
 - Stop posting AI-generated "slop." Use knowledge bases and source retrieval methods to produce content that AI models actually cite — quality and specificity, not volume.
- 
+
 - Brand mentions on trusted third-party sites now matter more than many traditional backlinks. Even no-follow mentions and plain text citations on authoritative sources increase AI recommendation likelihood.
- 
+
 - AI coding tools are a massive SEO leverage point: a single person can now rebuild site architecture, fix technical SEO issues, and launch new tools in minutes — moving faster than any large agency.
- 
+
 - The old game of keywords and rankings is dead. The new game is Search Everywhere Optimization — being found across Google, ChatGPT, Perplexity, YouTube, and wherever your customers actually search.
- 
+
 - By 2026, the gap between those who embrace AI and those who do not will be enormous. Stop thinking about how Google sees your site and start thinking about how AI models perceive your entire brand.
 
 ### **4. JAKE WARD**  
@@ -68,13 +68,35 @@ Core thesis: 13,000+ pages in 3 hours and +466% traffic in 60 days is achievable
 
 Key insights:
 - Never ask AI to write freeform content at scale. Always ask it to fill a strict JSON schema. Freeform output is inconsistent: one page may have 8 checklist items, the next may have 40. Schemas enforce identical structure with different substance across every page.
- 
+
 - The real scale comes from rich niche taxonomy. The system was built with structured context for 309 different niches — each including audience profiles, pain points, and strategies. This context injection is what turns pages from generic filler into genuinely useful content.
- 
+
 - Separate generation, structure, and presentation into three distinct layers and never mix them. AI generates the data, the front end (components) handles the presentation. When these layers are mixed, quality collapses at scale.
- 
+
 - Roll out pages progressively in batches, monitor Google Search Console for indexing rates and impressions, and scale only after confirming the early batch is working. Never launch everything at once.
- 
+
 - Tool pages outperform pure content pages in engagement. Real working tools keep users on-site, generate higher conversion intent, and represent a different part of the funnel than informational content.
- 
+
 - The system grew from 971 clicks per week before launch to 5,500 clicks per week in just 60 days — proof that structure plus niche context is the formula, not volume alone.
+
+### **5. KEVIN INDIG**  
+Source: LinkedIn — "How to build an AI SEO strategy that outlasts tactics"  
+Category: Strategy
+
+Core thesis: Most "AI SEO strategies" are just tactic lists — real strategy starts with the business problem, not the channel.
+
+Key insights:
+
+- Teams chasing ChatGPT citations without understanding the business reason will fail. A real AI SEO strategy must answer one question: what specific business problem does AI interaction actually solve?
+
+- Replace traffic forecasts with scenario planning. "20% effort on digital PR could increase assisted conversions by 15%" is far more useful to leadership than estimating vague pageview numbers.
+
+- AI search is replacing ranked results with single answers. The goal is now earning retrieval and citations — not ranking positions. Brands that only measure success by clicks will underinvest in visibility where decisions actually form.
+
+- Brands are 6.5x more likely to be cited via third-party sources than their own domains. Off-site authority — earned through digital PR, expert mentions, and community presence — is the new SEO leverage.
+
+- 75% of AI Mode sessions end without any external visits. Visibility (being cited inside the AI answer) is now more valuable as a KPI than raw traffic.
+
+- Strategy must be adaptable. Define, test, learn, refine quarterly — AI algorithm behavior evolves constantly and plans that cannot pivot will break the first time a platform changes.
+
+###
