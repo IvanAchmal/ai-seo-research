@@ -29,12 +29,12 @@ If the impact is outsized, you may want to consider shifting your affiliate prog
 Otherwise you may be at risk of finding yourself at the whim of an excessively clickable thumbnail at some point in the near future.
 
 ## Key Takeaways
-**- The "Defensive" Disadvantage:** Category leaders often find themselves in a defensive position, where maintaining the status quo prevents them from taking the aggressive risks needed to adapt to new search environments.
+- **The "Defensive" Disadvantage:** Category leaders often find themselves in a defensive position, where maintaining the status quo prevents them from taking the aggressive risks needed to adapt to new search environments.
 
-**- Brand Weight vs. Innovation:** Large, established brands may suffer from "brand baggage," where existing processes and legacy content make it difficult to pivot as quickly as smaller, more nimble competitors.
+- **Brand Weight vs. Innovation:** Large, established brands may suffer from "brand baggage," where existing processes and legacy content make it difficult to pivot as quickly as smaller, more nimble competitors.
 
-**- Algorithmic Bias Toward Freshness:** Search algorithms can sometimes favor newer, "disruptive" content over long-standing category leaders, meaning past dominance does not guarantee future visibility.
+- **Algorithmic Bias Toward Freshness:** Search algorithms can sometimes favor newer, "disruptive" content over long-standing category leaders, meaning past dominance does not guarantee future visibility.
 
-**- The Content Decay Trap:** Leaders often sit on vast amounts of older content that requires significant resources to update, which can negatively impact overall site authority if left unmanaged.
+- **The Content Decay Trap:** Leaders often sit on vast amounts of older content that requires significant resources to update, which can negatively impact overall site authority if left unmanaged.
 
-**- Necessity of a "Challenger" Mindset:** To stay ahead, market leaders must intentionally adopt a "challenger" mentality, proactively disrupting their own successful strategies before a competitor does it for them.
+- **Necessity of a "Challenger" Mindset:** To stay ahead, market leaders must intentionally adopt a "challenger" mentality, proactively disrupting their own successful strategies before a competitor does it for them.

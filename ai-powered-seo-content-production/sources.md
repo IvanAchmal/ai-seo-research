@@ -28,3 +28,8 @@ Link: https://www.linkedin.com/in/kevinindig/
 Date: 2026  
 Kevin Indig — The author of the Growth Memo, a publication focused on SEO strategy and AI implementation.
 
+# The Category Leader's Trap: Why Dominance Can Sometimes Hold You Back
+Author: Ross Hudgens  
+Link: https://www.linkedin.com/posts/rosshudgens_being-a-category-leader-can-sometimes-negatively-activity-7455605665018040320-L3vK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADh2lckBNtOakOfsUq81Z4907N-p0JILaYA  
+Date: 2026
+Ross Hudgens - Founder of Siege Media. Teaches how to use AI for the "skeleton" of content while ensuring the "meat" contains proprietary data and expert insights that AI cannot replicate.
