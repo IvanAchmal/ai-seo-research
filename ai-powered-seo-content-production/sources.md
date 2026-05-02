@@ -45,3 +45,11 @@ Author: Neil Patel
 Link: https://www.youtube.com/@neilpatel  
 Date: 2026 
 Neil Patel - Co-founder of NP Digital and Ubersuggest, specializing in making complex SEO strategies accessible to the mainstream business audience.
+
+## Google just shipped Preferred Sources globally.
+Author: Ross Simmonds  
+Link: https://www.linkedin.com/in/rosssimmonds/  
+Date: 2026
+Ross Simmonds - Founder of Foundation Marketing and Distribution.ai, is a B2B marketing strategist who champions the philosophy of "Create once. Distribute forever.".
+
+#
