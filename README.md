@@ -1,7 +1,11 @@
 # Research on AI-powered SEO content production
 
-The file is a curated expert reference list for a research project on AI-powered SEO content production, hosted on GitHub. It compiles 10 pieces of content — YouTube videos and LinkedIn posts — all published in 2026, covering the intersection of AI and SEO strategy.
- 
+> **Start here:** [Playbook / SOP — AI-Powered SEO Content Production](playbook.md)
+
+The main deliverable is the playbook above — a cited, phase-by-phase operating guide built from 10 expert sources, including where experts disagree, what was rejected, original ideas, and known weaknesses.
+
+Below is the curated research collection that informed it: 10 pieces of content (YouTube videos and LinkedIn posts), all published in 2026, covering the intersection of AI and SEO strategy.
+
 ## **THE OVERALL LOGIC OF THE COLLECTION**
 
 The collection intentionally spans three dimensions of the topic:
