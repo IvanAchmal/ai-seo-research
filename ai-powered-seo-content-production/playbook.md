@@ -14,8 +14,6 @@ This is not a generic AI SEO checklist. It is an operational playbook built from
 
 ---
 
-
-
 ## Phase 0: Align before you optimize (Week 1)
 
 Before touching prompts, tools, or publishing workflows, establish why AI search matters to the business and how success will be measured.
@@ -28,8 +26,6 @@ Before touching prompts, tools, or publishing workflows, establish why AI search
 **Exit criteria:** Written mandate, named owner, 3–5 commercial prompts that represent real buyer questions, and agreement on non-traffic KPIs (citations, share of voice, branded demand).
 
 ---
-
-
 
 ## Phase 1: Build measurement infrastructure (Week 1–2)
 
@@ -52,13 +48,11 @@ Run commercial prompts (buyer-intent questions) across major AI platforms and re
 
 ### 1.2 Add traditional SEO and business metrics
 
-- Track indexing rates and impressions in Google Search Console after each publish batch (source: Jake Ward, [LinkedIn article](https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pages-3-hours-jake-ward-pcjke/), 11.03.2026).
+- Track indexing rates and impressions in Google Search Console after each publish batch (source: Jake Ward, [LinkedIn article](https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pages-3-hours-jake-ward-pcjke/), 2026).
 - Measure branded demand and citation visibility—not just sessions—as AI Overviews decouple rankings from clicks (source: Neil Patel, [YouTube](https://youtu.be/dnjcBnQphKk?si=CHIinHe5-B_qu1BI), 2026).
 - Treat visibility inside AI answers as a primary KPI when 75%+ of AI Mode sessions may end without a site visit (source: Kevin Indig, insights from [Growth Memo](https://www.linkedin.com/in/kevinindig/), 2026).
 
 ---
-
-
 
 ## Phase 2: Build the knowledge base (Week 2–3)
 
@@ -91,8 +85,6 @@ This taxonomy injection is what separates useful pages from keyword-swapped fill
 
 ---
 
-
-
 ## Phase 3: Control brand narrative (Week 3–4)
 
 AI models largely repeat what they find online—they do not “decide” who you are (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
@@ -103,15 +95,11 @@ AI models largely repeat what they find online—they do not “decide” who yo
 2. List the 5–10 platforms that appear repeatedly.
 3. Prioritize those platforms—not a generic directory checklist (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
 
-
-
 ### 3.2 Optimize third-party profiles
 
 - Write one tight, keyword-aware brand description and reuse it across key profiles (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
 - Build review diversity on niche-relevant platforms (e.g., G2/Capterra for SaaS, Avvo for legal)—not just Google (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
 - Keep NAP, product descriptions, and USPs consistent everywhere (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
-
-
 
 ### 3.3 Close gaps on your own site
 
@@ -121,11 +109,7 @@ For local businesses: treat Google Business Profile as the primary entity surfac
 
 ---
 
-
-
 ## Phase 4: Produce content (ongoing)
-
-
 
 ### 4.1 Choose your production model
 
@@ -147,8 +131,6 @@ Use only when you have engineering capacity and a validated niche taxonomy:
 4. Prioritize resource pages (lists, checklists, guides) and interactive tools over comparison-only pages (source: Jake Ward, [LinkedIn article](https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pages-3-hours-jake-ward-pcjke/), 11.03.2026).
 5. Apply the utility test: “Would this page still be useful if search engines didn’t exist?” (source: Jake Ward, [LinkedIn article](https://www.linkedin.com/pulse/programmatic-seo-2026-how-i-built-13000-pages-3-hours-jake-ward-pcjke/), 11.03.2026).
 
-
-
 ### 4.2 Content structure for AI citation
 
 Format pages for extraction:
@@ -168,8 +150,6 @@ For high-stakes topics, invest in bespoke assets—custom visuals, interactive t
 
 ---
 
-
-
 ## Phase 5: Earn off-site visibility (ongoing)
 
 Brands are ~6.5× more likely to be cited via third-party sources than their own domains (source: Kevin Indig, insights from [Growth Memo](https://www.linkedin.com/in/kevinindig/), 2026).
@@ -179,8 +159,6 @@ Brands are ~6.5× more likely to be cited via third-party sources than their own
 1. Identify sites already appearing in AI citations for your target keywords.
 2. Earn repeated brand mentions on those sources—follow, nofollow, and even unlinked mentions may influence recommendations (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
 3. Aim to appear alongside established brands in the same source set (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
-
-
 
 ### 5.2 Community presence (Reddit)
 
@@ -205,8 +183,6 @@ Distribute to channels LLMs frequently cite: Reddit, LinkedIn, Quora, Medium (so
 
 ---
 
-
-
 ## Phase 6: Technical execution and speed (ongoing)
 
 Use AI coding tools to ship technical SEO fixes, launch tools, and update templates without engineering bottlenecks (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026; Caleb Ulku, [YouTube](https://youtu.be/IxC9zwX-BiE?si=HzrprPAFqfUXYtv4), 2026).
@@ -219,8 +195,6 @@ Minimum technical checklist:
 
 ---
 
-
-
 ## Phase 7: Review and reallocate (monthly)
 
 - Re-run commercial prompts; update coverage, position, share of voice, and citation-source metrics (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
@@ -230,11 +204,7 @@ Minimum technical checklist:
 
 ---
 
-
-
 ## Where experts disagree
-
-
 
 ### 1. How much to automate publishing
 
@@ -245,8 +215,6 @@ Minimum technical checklist:
 **My call:** Side with Gotch for this playbook’s default workflow. Goldie’s approach is valid for rapid testing on owned properties, but the assignment criteria and long-term brand risk favor mandatory human QA before anything goes live. Automate drafting, formatting, and deployment—not quality judgment.
 
 ---
-
-
 
 ### 2. Scale vs. precision in content production
 
@@ -260,8 +228,6 @@ Minimum technical checklist:
 
 ---
 
-
-
 ### 3. Paid placements for AI visibility
 
 **Nathan Gotch** states sponsored posts and paid placements on retrieval-source sites can still influence AI answers, and that follow/nofollow/unlinked mentions all appear to matter (source: Nathan Gotch, [YouTube](https://youtu.be/mbCfRlY7elM?si=i8L4Q-XorwT-lR2L), 2026).
@@ -271,8 +237,6 @@ Minimum technical checklist:
 **My call:** Treat paid mentions as a limited testing lever, not a core strategy. They may shift short-term citation patterns, but Hudgens is right that sustained AI recommendations require genuine topical authority. Use paid placements only on sources you would be proud to appear on organically.
 
 ---
-
-
 
 ### 4. Reddit as primary channel vs. supporting layer
 
@@ -284,11 +248,7 @@ Minimum technical checklist:
 
 ---
 
-
-
 ## What I rejected and why
-
-
 
 ### 1. Multi-site parallel publishing without differentiation (Julian Goldie)
 
@@ -298,8 +258,6 @@ Goldie publishes the same workflow across five websites simultaneously, using pa
 
 ---
 
-
-
 ### 2. Extension domains as a default scaling tactic (Koray Tuğberk GÜBÜR)
 
 Koray demonstrates extension domains that expand topical maps with strong traffic results—e.g., clicks from 5.1K to 16.5K on an extension property (source: Koray Tuğberk GÜBÜR, [LinkedIn post](https://www.linkedin.com/posts/koray-tugberk-gubur_this-is-an-example-of-an-extension-domain-activity-7453208301976174592-ttW5), 2026).
@@ -307,8 +265,6 @@ Koray demonstrates extension domains that expand topical maps with strong traffi
 **Rejected as default because:** This is advanced semantic architecture that requires deep topical mapping expertise, design consistency, and inter-domain strategy. For most operators, it adds complexity and brand fragmentation risk before they have maximized their primary domain. Include only as an optional Phase 8+ expansion after topical authority is established on the main site.
 
 ---
-
-
 
 ### 3. “Panic-testing” AI tactics without organizational alignment (Kevin Indig)
 
@@ -318,11 +274,7 @@ Indig describes teams jumping into prompt optimization, entity markup, and citat
 
 ---
 
-
-
 ## My original ideas
-
-
 
 ### Citation-source gap score (not found in any source)
 
@@ -336,8 +288,6 @@ Rank gaps by source authority and mention frequency. Prioritize off-site work on
 
 ---
 
-
-
 ## Weaknesses of this playbook
 
 1. **Survivorship bias in case studies.** Ward’s +466% and Diggity’s +2,814% results come from skilled operators with existing infrastructure. Replication by a beginner team is not guaranteed.
@@ -350,11 +300,7 @@ Rank gaps by source authority and mention frequency. Prioritize off-site work on
 
 ---
 
-
-
 ## Who I would NOT recommend following (and why)
-
-
 
 ### Julian Goldie — not as a primary strategic guide
 
@@ -371,8 +317,6 @@ However, I would not recommend him as a primary strategist because:
 
 ---
 
-
-
 ### Koray Tuğberk GÜBÜR — not for beginners or generalist teams
 
 Koray operates at an advanced semantic-SEO level—extension domains, topical maps, document layout affecting vectorization, cost of retrieval (source: Koray Tuğberk GÜBÜR, [LinkedIn post](https://www.linkedin.com/posts/koray-tugberk-gubur_this-is-an-example-of-an-extension-domain-activity-7453208301976174592-ttW5), 2026; insights from [Holistic SEO framework](https://www.linkedin.com/in/koray-tugberk-gubur/)).
@@ -386,8 +330,6 @@ I would not recommend following his playbook wholesale because:
 **Use Koray for:** advanced topical authority concepts once fundamentals are working. **Do not use Koray for:** your first 90 days of AI SEO execution.
 
 ---
-
-
 
 ## Experts I *would* recommend as primary guides (by use case)
 
@@ -405,8 +347,6 @@ I would not recommend following his playbook wholesale because:
 
 
 ---
-
-
 
 ## Quick-start checklist (first 30 days)
 
