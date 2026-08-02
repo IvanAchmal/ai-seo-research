@@ -360,5 +360,3 @@ I would not recommend following his playbook wholesale because:
 - [ ] Phase 7: Month-1 review—reallocate effort based on indexing + AI mention movement
 
 ---
-
-*This playbook synthesizes research stored in* `ai-powered-seo-content-production/`*. Update it quarterly or after major platform changes.*
