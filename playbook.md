@@ -405,6 +405,6 @@ I would not recommend following his playbook wholesale because:
 
 ---
 
-## ✅ [Open the Quick-start Checklist →](https://github.com/IvanAchmal/ai-seo-research/issues/2)
+## ✅ [Open the Quick-start Checklist](https://github.com/IvanAchmal/ai-seo-research/issues/2)
 
 ---
