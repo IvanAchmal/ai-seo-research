@@ -403,21 +403,8 @@ I would not recommend following his playbook wholesale because:
 | Local / entity SEO                        | Caleb Ulku    | Structured data + GBP alignment for agentic search      |
 | High-fidelity content bar                 | Ross Hudgens  | Authority and reputation framing for GEO                |
 
-
 ---
 
-
-
-## Quick-start checklist (first 30 days)
-
-- [ ] Phase 0: Name owner, define 3–5 commercial prompts, agree on citation/SOV KPIs
-- [ ] Phase 1: Run baseline AI visibility audit (coverage, position, SOV, citation sources)
-- [ ] Phase 2: Build knowledge base with brand docs, FAQs, case studies, customer language
-- [ ] Phase 3: Identify top 5–10 citation platforms; optimize profiles and on-site brand pages
-- [ ] Phase 4: Publish first batch (3–5 pieces) using Model A with mandatory human QA
-- [ ] Phase 5: Start Reddit lurk period; identify 3–5 target subreddits
-- [ ] Phase 6: Fix top technical issues (schema, internal links, entity alignment if local)
-- [ ] Phase 7: Month-1 review—reallocate effort based on indexing + AI mention movement
+## ✅ [Open the Quick-start Checklist →](https://github.com/IvanAchmal/ai-seo-research/issues/1)
 
 ---
-
