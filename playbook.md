@@ -230,7 +230,9 @@ Minimum technical checklist:
 
 ---
 
+## ✅ [Open the Quick-start Checklist](https://github.com/IvanAchmal/ai-seo-research/issues/2)
 
+---
 
 ## Where experts disagree
 
@@ -405,6 +407,3 @@ I would not recommend following his playbook wholesale because:
 
 ---
 
-## ✅ [Open the Quick-start Checklist](https://github.com/IvanAchmal/ai-seo-research/issues/2)
-
----
